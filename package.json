@@ -1,0 +1,14 @@
+{
+  "name": "user-management-web-application",
+  "version": "1.0.0",
+  "description": "An ongoing user management web application built with Node.js, Express, MongoDB, Mongoose and EJS.",
+  "main": "practice3.js",
+  "scripts": {
+    "start": "node practice3.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.0.0"
+  }
+}
